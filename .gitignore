@@ -1,0 +1,26 @@
+# 依存関係ディレクトリ
+node_modules/
+
+# 環境設定ファイル
+.env
+
+# ビルド出力
+dist/
+build/
+
+# ログファイル
+*.log
+*.log.*
+
+# エディタの設定ファイルやバックアップファイル
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# OS生成ファイル
+Thumbs.db
+ehthumbs.db
+
+# npmデバッグログ
+npm-debug.log*
