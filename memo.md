@@ -24,3 +24,13 @@ Node.jsのAPIをTypeScriptで使用するための型情報
 ```
 npm install --save-dev @types/node
 ```
+
+JavaScriptにコンパイル
+```
+npx tsc
+```
+
+実行
+```
+node dist/index.js
+```
